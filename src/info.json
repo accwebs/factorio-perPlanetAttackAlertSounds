@@ -1,0 +1,10 @@
+{
+    "name": "PerPlanetAttackAlertSounds",
+    "version": "0.0.1",
+    "title": "Per-planet Attack Alert Sounds",
+    "author": "accwebs",
+    "homepage": "https://github.com/accwebs/factorio-perPlanetAttackAlertSounds",
+    "factorio_version": "2.0",
+    "dependencies": ["base >= 2.0.55", "space-age >= 2.0.55"],
+    "description": "A silly, for-personal-use mod, that adds per-planet 'entity destroyed' alert sounds to reduce the constant toil of having to check the alert location each time it fires. If others have interest in this, I might be willing to add more sfx and make it customizable"
+}
