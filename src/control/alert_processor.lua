@@ -76,7 +76,7 @@ function alert_processor.tick()
 
     for _, this_force in pairs(game.forces) do
         this_force.play_sound({
-            path = "utility/research_completed",
+            path = "simcity2000-power-line",
             position = nil,
             volume_modifier = nil,
             override_sound_type = 'alert'
