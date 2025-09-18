@@ -6,7 +6,7 @@ Source repository for the Factorio mod "Per-Planet Attack Alert Sounds".
 
 Per-Planet Attack Alert Sounds is a mod for the video game [Factorio](https://factorio.com/). It is a silly, (largely) for-personal-use mod, that adds per-planet 'entity destroyed' alert sounds to reduce the constant toil of the player having to check the alert location each time the alert sound goes off.
 
-Per-Planet Attack Alert Sounds on the Factorio mod portal: TBD
+Per-Planet Attack Alert Sounds on the Factorio mod portal: https://mods.factorio.com/mod/PerPlanetAttackAlertSounds
 
 **WARNING: ALPHA status; crashes and bugs are likely!**
 
