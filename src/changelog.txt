@@ -1,5 +1,6 @@
 ---------------------------------------------------------------------------------------------------
 Version: 0.0.1
-Date: 2025-09-17
+Date: 2025-09-18
   Info:
     - Initial mod release. Alpha status.
+    - Probably needs redesign to use an event-driven 'counting' design rather than alert polling.
