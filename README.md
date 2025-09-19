@@ -12,6 +12,8 @@ Per-Planet Attack Alert Sounds on the Factorio mod portal: https://mods.factorio
 
 Nauvis continues to use the default alert sound; the mod tries to mimick default Nauvis sound behavior. Custom sounds are applied to Gleba, Vulcanus, and Fulgora. The custom sounds might be familiar to some gamers ;-)
 
+If others have interest in this, I might be willing to add more sfx and make it customizable. 
+
 **CAUTION: This mod makes some permanent force changes to games loaded with the mod active (to silence the default alert so that the custom logic can take over). Factorio does not auto-revert if you later disable the mod; you must first tell mod to undo the changes. Read the instructions below.**
 
 ## Usage Instructions
