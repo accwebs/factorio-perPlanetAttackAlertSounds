@@ -2,7 +2,7 @@ local constants = {}
 
 -- constants.PROFILING_ENABLED = false
 constants.TARGET_MOD_STATE_VERSION = 2
-constants.TICK_EVENT_CALLBACK_INTERVAL = 15
+constants.TICK_EVENT_CALLBACK_INTERVAL = 20
 constants.MAX_PENDING_PLAY_AGE = 60
 constants.MAX_EVENT_CALLBACK_DELAY_BEFORE_IGNORE = 40
 
