@@ -1,8 +1,8 @@
 ---------------------------------------------------------------------------------------------------
 Version: 0.0.2
-Date: 2025-09-18
-  Info:
-    - TODO
+Date: 2025-09-21
+  Changes:
+    - Redesign the mod to no longer use an alert-scanning approach and instead rely on on_entity_died callbacks. This seems to be more UPS friendly in the worst case.
 ---------------------------------------------------------------------------------------------------
 Version: 0.0.1
 Date: 2025-09-18
