@@ -7,6 +7,11 @@ constants.MAX_PENDING_PLAY_AGE = 60
 constants.MAX_EVENT_CALLBACK_DELAY_BEFORE_IGNORE = 40
 
 constants.PLANET_INITIAL_ALERT = {
+    nauvis = {
+        SOUND_PATH='armada1_fed_enemy_engaged',
+        SOUND_TTL_TICKS=720,
+        SOUND_MAX_CONCURRENT=1  -- ignored for "initial" sounds
+    },
     gleba = {
         SOUND_PATH='aoe2_under_attack',
         SOUND_TTL_TICKS=360,
@@ -14,6 +19,11 @@ constants.PLANET_INITIAL_ALERT = {
     },
     vulcanus = {
         SOUND_PATH='ee_fanfare',
+        SOUND_TTL_TICKS=360,
+        SOUND_MAX_CONCURRENT=1  -- ignored for "initial" sounds
+    },
+    space_platform = {
+        SOUND_PATH='startrek25th_anniv_scotty_shields_falling',
         SOUND_TTL_TICKS=360,
         SOUND_MAX_CONCURRENT=1  -- ignored for "initial" sounds
     }
@@ -36,6 +46,11 @@ constants.PLANET_CONTINUATION_ALERTS = {
     },
     vulcanus = {
         SOUND_PATH='dontstarve_deerclops_iceattack',
+        SOUND_TTL_TICKS=120,
+        SOUND_MAX_CONCURRENT=8
+    },
+    space_platform = {
+        SOUND_PATH='aoe2_building_destroyed',
         SOUND_TTL_TICKS=120,
         SOUND_MAX_CONCURRENT=8
     }

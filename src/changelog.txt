@@ -1,8 +1,9 @@
 ---------------------------------------------------------------------------------------------------
 Version: 0.0.3
-Date: 2025-09-18
-  Info:
-    - TBD
+Date: 2025-09-30
+  Minor Features:
+    - Add a possibly-familiar initial "attack start" sound for Nauvis.
+    - Add possibly-familiar sounds for space platform destruction start, and continuing destruction.
 ---------------------------------------------------------------------------------------------------
 Version: 0.0.2
 Date: 2025-09-21

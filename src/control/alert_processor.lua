@@ -102,14 +102,17 @@ end
 function alert_processor.on_entity_died(event --[[table]])
     local entity = event.entity
     local force_index = entity.force_index
+    local platform = entity.surface.platform
     local planet = entity.surface.planet
     if #game.forces[force_index].players == 0 then
         return
     end
     if planet then
         handle_new_destroyed_entity(force_index, planet.name, event.tick)
+    elseif platform then
+        handle_new_destroyed_entity(force_index, "space_platform", event.tick)
     else
-        handle_new_destroyed_entity(force_index, "not-a-planet", event.tick)
+        handle_new_destroyed_entity(force_index, "unknown", event.tick)
     end
 end
 
