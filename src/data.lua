@@ -27,7 +27,7 @@ data:extend
     name = "armada1_fed_enemy_engaged",
     category = "alert",
     filename = "__PerPlanetAttackAlertSounds__/sound/armada1_fed_enemy_engaged.ogg",
-    volume = 0.6,
+    volume = 0.5,
     preload = true
   },
   {
