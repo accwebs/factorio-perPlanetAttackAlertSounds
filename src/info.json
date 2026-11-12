@@ -1,10 +1,10 @@
 {
     "name": "PerPlanetAttackAlertSounds",
-    "version": "0.0.6",
+    "version": "1.0.0",
     "title": "Per-planet Attack Alert Sounds",
     "author": "accwebs",
     "homepage": "https://github.com/accwebs/factorio-perPlanetAttackAlertSounds",
     "factorio_version": "2.1",
     "dependencies": ["base >= 2.1.23", "space-age >= 2.1.23"],
-    "description": "A silly, for-personal-use mod, that adds per-planet 'entity destroyed' alert sounds to reduce the constant toil of having to check the alert location each time it fires. Warning: ALPHA status! CAUTION: Makes some permanent force changes to games loaded with the mod active. Factorio does not auto-revert if you later disable the mod; you must first tell mod to undo the changes. Read the instructions."
+    "description": "A silly, for-personal-use mod, that adds per-planet 'entity destroyed' alert sounds to reduce the constant toil of having to check the alert location each time it fires. CAUTION: Makes some permanent force changes to games loaded with the mod active. Factorio does not auto-revert if you later disable the mod; you must first tell mod to undo the changes. Read the instructions."
 }
