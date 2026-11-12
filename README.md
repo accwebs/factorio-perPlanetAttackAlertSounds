@@ -8,8 +8,6 @@ Per-Planet Attack Alert Sounds is a mod for the video game [Factorio](https://fa
 
 Per-Planet Attack Alert Sounds on the Factorio mod portal: https://mods.factorio.com/mod/PerPlanetAttackAlertSounds
 
-**WARNING: ALPHA status; crashes and bugs are likely!**
-
 Nauvis continues to use the default alert sound; the mod tries to mimick default Nauvis sound behavior. Custom sounds are applied to Gleba, Vulcanus, and Fulgora. The custom sounds might be familiar to some gamers ;-)
 
 If others have interest in this, I might be willing to add more sfx and make it customizable. 
